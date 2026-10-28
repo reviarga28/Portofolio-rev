@@ -395,7 +395,7 @@ function App() {
                     <p className="pl-5 text-green-300">{"{"}</p>
 
                     <p className="pl-10">
-                      name: <span className="text-orange-300">"Revi Arga"</span>
+                      name: <span className="text-orange-300">"Revi Arga Febrian.S"</span>
                       ,
                     </p>
 
@@ -774,7 +774,7 @@ function App() {
               </motion.a>
 
               <motion.a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/revi-arga-4978902a8"
                 target="_blank"
                 rel="noreferrer"
                 whileHover={{ scale: 1.03 }}
